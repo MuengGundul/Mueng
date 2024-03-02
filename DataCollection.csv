@@ -1,0 +1,15 @@
+Minimarket Risaga;;;;;;;;;
+Laporan Transaksi Penjualan Bulanan;;;;;;;;;
+Per Sales;;;;;;;;;
+No;Tanggal;Nama Vendor;Kode Barang;Cara Bayar;QTY;Harga;Jumlah;;
+1;1/1/2022;Sales A;B272;Tunai;5;2.000.000;10.000.000;;
+2;5/1/2022;Sales B;B273;Kredit;1;800.000;800.000;;
+3;7/1/2022;Sales C;B274;Tunai;10;2.000.000;20.000.000;;
+4;10/1/2022;Sales D;B291;Tunai;7;5.000.000;35.000.000;;
+5;11/1/2022;Sales E;B299;Tunai;1;1.500.000;1.500.000;;
+6;15/1/2022;Sales F;B277;Kredit;8;1.000.000;8.000.000;;
+7;16/1/2022;Sales G;B278;Kredit;2;2.500.000;5.000.000;;
+8;20/1/2022;Sales H;B280;Kredit;5;1.300.000;6.500.000;;
+9;22/1/2022;Sales I;B285;Kredit;2;9.000.000;18.000.000;;
+10;30/1/2022;Sales J;B281;Kredit;1;650.000;650.000;;
+;;;;;Total;25.750.000;105.450.000;;
